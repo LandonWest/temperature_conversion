@@ -10,5 +10,9 @@
     "test": "mocha"
   },
   "author": "Landon West",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LandonWest/temperature_conversion"
+  }
 }
