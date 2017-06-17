@@ -1,0 +1,14 @@
+{
+  "name": "temperature",
+  "version": "1.0.0",
+  "description": "practice using mocha testing framework and module require",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Landon West",
+  "license": "ISC"
+}
